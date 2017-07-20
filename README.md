@@ -30,6 +30,7 @@
             * [Youtube](#youtube-1)
 
 ## Scala
+<img src="https://avatars3.githubusercontent.com/u/57059?v=4&s=200" height="100" align="right">
 
 ### Articles/Slides ...
 - [Scala ecosystem](https://goo.gl/uutSpg)
@@ -83,6 +84,7 @@ Most of the time the courses are greatly reduced
 
 
 ## Play Framework
+<img src="https://www.playframework.com/assets/images/logos/play_full_color.png" width="150" align="right"> 
 
 ### Video Course
 #### Pluralsight
@@ -92,8 +94,14 @@ Most of the time the courses are greatly reduced
 #### eBooks
 - [Underscore  - Essential Play](https://goo.gl/uKuiAm)
 
-## Slick
+#### Print Books
+[<img src="https://tinyurl.com/yd8uulg9" height ="200" width="150" alt="Play in Practice: Building a Reactive Web Application">](https://goo.gl/uLjJ5j)
+[<img src="https://tinyurl.com/y8o66rqu" height ="200" width="150" alt="Play for Scala: Covers Play 2">](https://goo.gl/2ag1NB)
+[<img src="https://tinyurl.com/y8gvgdsf" height ="200" width="150" alt="Mastering Play Framework for Scala">](https://goo.gl/yLHEsn)
 
+## Slick
+<img src="http://slick.lightbend.com/resources/images/slick-logo.png" width="150" align="right"> 
+ 
 ### Articles/Slides ...
 - [Patterns for slick database applications](https://goo.gl/JRfQBq)
 
@@ -102,6 +110,7 @@ Most of the time the courses are greatly reduced
 - [Underscore - Essential Slick](https://goo.gl/p45E96)
 
 ## Akka
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Akka_toolkit_logo.svg/1024px-Akka_toolkit_logo.svg.png" width="150" align="right"> 
 
 ### Books
 #### Print Books
