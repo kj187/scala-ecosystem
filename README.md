@@ -1,5 +1,34 @@
 # Scala Ecosystem
 
+   * [Scala Ecosystem](#scala-ecosystem)
+      * [Scala](#scala)
+         * [Articles/Slides ...](#articlesslides-)
+         * [Video Course](#video-course)
+            * [Udemy](#udemy)
+            * [Coursera](#coursera)
+            * [Other](#other)
+         * [Video Talks/Tutorials](#video-talkstutorials)
+            * [Youtube](#youtube)
+         * [Books](#books)
+            * [eBooks](#ebooks)
+            * [Print Books](#print-books)
+      * [Play Framework](#play-framework)
+         * [Video Course](#video-course-1)
+            * [Pluralsight](#pluralsight)
+         * [Books](#books-1)
+            * [eBooks](#ebooks-1)
+      * [Slick](#slick)
+         * [Articles/Slides ...](#articlesslides--1)
+         * [Books](#books-2)
+            * [eBooks](#ebooks-2)
+      * [Akka](#akka)
+         * [Books](#books-3)
+            * [Print Books](#print-books-1)
+         * [Video Course](#video-course-2)
+            * [Udemy](#udemy-1)
+         * [Video Talks/Tutorials](#video-talkstutorials-1)
+            * [Youtube](#youtube-1)
+
 ## Scala
 
 ### Articles/Slides ...
@@ -54,7 +83,6 @@ Most of the time the courses are greatly reduced
 
 
 ## Play Framework
----
 
 ### Video Course
 #### Pluralsight
